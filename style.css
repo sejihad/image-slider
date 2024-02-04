@@ -1,0 +1,13 @@
+button {
+  border: 0;
+  background-color: aquamarine;
+  border-radius: 5px;
+  padding: 10px 20px;
+}
+
+img {
+  border-radius: 10px;
+}
+div {
+  text-align: center;
+}
